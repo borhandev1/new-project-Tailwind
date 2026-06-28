@@ -17,7 +17,9 @@ H.html
 !TamrinTailwind.html
 
 module
-
+!src/output.css
+!src/input.css
+!src/css/fontStyle.css
 sass/
 new-project
 
