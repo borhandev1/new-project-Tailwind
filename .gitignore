@@ -31,3 +31,7 @@ package.json
 fontStyle/
 
 !index.html
+
+!H.html
+
+!new-feature.html

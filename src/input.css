@@ -6,9 +6,6 @@
 
 
 
-
-
-
 #video-btn{
     background: rgba(255,255,255,.12);
     backdrop-filter: blur(18px);
@@ -44,9 +41,6 @@
 #video-btn:hover{
     background:rgba(255,255,255,.18);
 }
-
-
-
 
 
 
